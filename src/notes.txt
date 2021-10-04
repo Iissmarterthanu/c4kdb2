@@ -1,0 +1,36 @@
+net ninja - react - material ui
+https://www.youtube.com/watch?v=0KEpWHtG10M&t=12s
+
+background-color: #e2d8b8;
+
+https://docs.github.com/en/get-started/quickstart/git-cheatsheet
+
+<link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400;500;600&family=Pinyon+Script&display=swap" rel="stylesheet">
+
+npm install @material-ui/core
+npm install firebase
+npm i react-image-file-resizer
+
+Dev world - CRUD react firebase
+https://www.youtube.com/playlist?list=PLpPVLI0A0OkJ-bu1zSiknRYEUIy33gCwp
+https://www.youtube.com/watch?v=VJmNtYZl8i4
+https://github.com/samfromaway/firebase-tutorial/blob/master/src/GetFirebase.js
+
+net ninja - image uploader & Firebase
+https://www.youtube.com/watch?v=vUe91uOx7R0
+https://github.com/iamshaunjp/firegram/tree/final-files
+npm install framer-motion
+storage - allow read, write: if request.auth != null;
+
+deved - css - vanilla JS
+https://github.com/developedbyed/vanilla-todo
+
+npm firebase uploader - use net ninja instead
+https://www.npmjs.com/package/react-firebase-file-uploader
+
+reference
+https://benmcmahen.com/using-firebase-with-react-hooks/
+
+image resizer:
+react-image-file-resizer - npm
+https://casperleerink.medium.com/react-firebase-resize-image-on-client-side-for-free-50c45a9cbc34
